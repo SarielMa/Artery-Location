@@ -1,0 +1,6 @@
+case  0_P125_U slice 295 has two contours
+
+in training set, total 1753, 266 has more than one contours
+
+max 160*720
+min 100*640
